@@ -33,7 +33,7 @@
 
 ### ⚡ Un poco más sobre mí
 
-- 📚 A veces me pierdo entre libros (filosofía, tecnología, comportamiento humano)
+- 📚 A veces me pierdo entre libros (filosofía, tecnología y psicología)
 - 🧪 Me gusta experimentar con proyectos propios y aprender haciendo
 
 ---
