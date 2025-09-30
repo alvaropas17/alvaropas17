@@ -1,19 +1,14 @@
 ## 👋 ¡Hola! Soy Álvaro
 
-🎯 Desarrollador en formación | 🧠 Me interesa la IA, la programación y el marketing
+🎯 Desarrollador en formación | 🧠 Me interesa la IA y su aplicación en la programación y el marketing
 📚 Estudiante de DAW (Desarrollo de Aplicaciones Web)  
-⚙️ Explorando tecnologías como **Java**, **Bash**, **SQL**, **MySQL**, y más
+⚙️ Explorando tecnologías como **Java**, **Bash**, **SQL**, **MySQL**, **PHP**m **JavaScript**
 
 ---
 
 ### 🚀 Proyectos destacados
-
-- 🎮 **Tennis Fantasy**  
-  App en Java que integra base de datos y GUI con Swing para gestionar equipos de tenis.
-  
-- 🐾 **Gestor de Animales**  
-  Aplicación con interfaz gráfica en Java. Permite guardar, consultar y validar datos de animales.
-
+- **He realizado mi curriculum en formato web.**
+- 🔗 [Web Curriculum](https://alvaropas17.github.io/curriculum/)
 ---
 
 ### 💡 Áreas que me inspiran
@@ -32,8 +27,6 @@
 ---
 
 ### ⚡ Un poco más sobre mí
-
-- 📚 A veces me pierdo entre libros (filosofía, tecnología y psicología)
 - 🧪 Me gusta experimentar con proyectos propios y aprender haciendo
 
 ---
