@@ -2,7 +2,7 @@
 
 🎯 Desarrollador en formación | 🧠 Me interesa la IA y su aplicación en la programación y el marketing
 📚 Estudiante de DAW (Desarrollo de Aplicaciones Web)  
-⚙️ Explorando tecnologías como **Java**, **Bash**, **SQL**, **MySQL**, **PHP**m **JavaScript**
+⚙️ Explorando tecnologías como **Java**, **Bash**, **SQL**, **MySQL**, **PHP** **JavaScript**
 
 ---
 
